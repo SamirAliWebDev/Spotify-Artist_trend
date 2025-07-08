@@ -66,7 +66,7 @@ sns.barplot(data=monthly_melted, x='Month', y='Count', hue='Metric')
 ```
 
 ### Result:
-![Top Artists Chart](images/monthly%20songs%20added.png)
+![Top Artists Chart](images/unique%20Artists%20and%20songs%20added.png)
 #
 # 🎧 Spotify 2023 Data Analysis
 
