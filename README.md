@@ -66,4 +66,4 @@ plt.show()
 
 ### Result:
 
-![Top Artists Chart](images\output.png)
+![Top Artists Chart](images/output.png)
